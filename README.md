@@ -25,7 +25,7 @@ Para ejecutar este proyecto necesitarás **Godot Engine**. Si aún no lo tienes 
 1. Descarga e instala Godot desde el enlace anterior.  
 2. Clona o descarga este repositorio a tu equipo:  
    ```bash
-   git clone (https://github.com/POLIWOOD-UPV/EXPERIENCIA_INTERACTIVA_RANAS.git
+   git clone https://github.com/POLIWOOD-UPV/EXPERIENCIA_INTERACTIVA_RANAS.git
 
 
 ---
