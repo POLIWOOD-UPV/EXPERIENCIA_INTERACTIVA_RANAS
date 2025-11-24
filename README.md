@@ -123,13 +123,3 @@ Tareas creativas de edición:
 - Puntaje basado en decisiones correctas.  
 - Tips y curiosidades de cine.
 
----
-
-## 📁 Estado del proyecto
-*Documento base para diseño. Mecánicas y flujo sujetos a expansión.*
-
----
-
-## 📜 Licencia
-Este proyecto puede adaptarse libremente según las necesidades del equipo.
-
